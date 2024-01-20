@@ -1,0 +1,21 @@
+#media{
+    height: none;
+    width: none;
+    background-color:lightcyan;
+    color: cornflowerblue;
+    border: 2px solid salmon;
+    font-size: large;
+    font-weight: bolder;
+}
+/* @media(min-width:500px){
+ #media{
+    color:aqua;
+    background-color:red ;
+}
+} */
+@media(orientation:landscape){
+    #media{
+       color:aqua;
+       background-color:red ;
+   }
+   }

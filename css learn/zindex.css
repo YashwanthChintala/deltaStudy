@@ -1,0 +1,23 @@
+.boxone{
+    height: 50px;
+    width: 50px;
+    background-color: #f08080;
+    border: 5px solid black;
+    position: relative;
+    top: 30px;
+    z-index: 1;
+}
+.boxtwo{
+    height: 50px;
+    width: 50px;
+    background-color: lightsalmon;
+    border: 5px solid black;
+    position: relative;
+    z-index: 2;
+}
+.boxthree{
+    height: 50px;
+    width: 50px;
+    background-color: lightblue;
+    border: 5px solid black;
+}

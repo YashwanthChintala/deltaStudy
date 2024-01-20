@@ -1,0 +1,39 @@
+ .nav{
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+    display: flex;   
+    justify-content:flex-start;
+    /* justify-content:space-between; */
+    align-items: center;
+ }
+ .child{
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 5px;
+    line-height: 2;
+
+ }
+ .container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid lightseagreen;
+    border-radius: 10px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   align-items: center;
+}
+div .A,.B,.C,.D,.E,.F,.G,.H,.I{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 10px;
+}

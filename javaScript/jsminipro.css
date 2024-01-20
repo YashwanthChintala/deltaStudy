@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 2px solid black ;
+    margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.pink{   
+     background-color: #d95980;
+}
+.orange{
+    background-color: #f99b45;
+
+}
+.quil{  background-color: #69aac0;
+
+}
+.violet{
+    background-color: #819ff9;
+
+}
+
+.flash{
+    background-color: white;
+}
